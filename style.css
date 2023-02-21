@@ -1,0 +1,24 @@
+.heading
+{
+
+  font-size: xx-large;
+  width: 80%;
+  color:darkblue;
+  font-weight:bolder;
+
+}
+
+.name_of_the_people
+{
+
+   color:darkgreen;
+   font-size: x-large;
+   font-weight: bold;
+
+}
+
+body{
+
+ background-color: lightskyblue;
+
+}
